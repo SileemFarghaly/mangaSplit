@@ -7,6 +7,7 @@
 # Output will be a directory with chapters split into subfolders containing the split pages
 # AND a cbz file with the same directory structure
 # TODO: Add params to create a cbz/cbr or neither
+#	Handle images at the source root
 #       Clean up the code to reorder the pages
 #       Clean up/remove the code to re-add the credits page
 #       Think of a better name
